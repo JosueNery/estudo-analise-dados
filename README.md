@@ -18,7 +18,7 @@ Este repositório tem como objetivo apresentar algumas atividades produzidas na 
   
   ![Capturar32](https://user-images.githubusercontent.com/62897903/166124556-92f17c25-0e6f-433a-9fcf-7886f1cd9752.PNG)
 
-  <a href="https://docs.google.com/spreadsheets/d/1HnYOlqWdgVpCDBqVorIxc9IofYTrrXIJY4VaaekV540/edit?usp=sharing" target="_blank"> Link para o arquivo completo no Planilhas Google </a>
+  <a href="https://github.com/JosueNery/estudo-analise-dados/blob/35ed0e709f38c47d35edf3fe7cc6c6e85149d435/brasileirao-sa/AAestendido.csv" target="_blank"> Arquivo completo </a>
   
 ## Análise BI-RADS
 
