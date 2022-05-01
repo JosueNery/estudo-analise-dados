@@ -1,4 +1,5 @@
 >*Mesmo conteúdo encontrado no arquivo Resumo Estendido.pdf*
+>
 >*Gráficos e análises relacionadas podem ser encontrados nos arquivos de prática*
 
 **Estatística Preditiva: Modelo Logístico para predição de rebaixamento de times na Série A do campeonato brasileiro de futebol.**
