@@ -1,5 +1,7 @@
 >*Mesmo conteúdo encontrado no arquivo Resumo Estendido.pdf*
 >
+>*Código python em* <a href="https://github.com/JosueNery/estudo-analise-dados/blob/a207407271fed8a91c920be8065467a68510abf7/brasileirao-sa/ProjetoBA.ipynb">---->ProjetoBA.ipynb<----</a>
+>
 >*Gráficos e análises relacionadas podem ser encontrados nos arquivos de prática*
 
 **Estatística Preditiva: Modelo Logístico para predição de rebaixamento de times na Série A do campeonato brasileiro de futebol.**
